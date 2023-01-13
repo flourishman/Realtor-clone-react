@@ -1,3 +1,7 @@
 {
-  "css.lint.unknownVendorSpecificProperties": "warning"
+  "css.lint.unknownVendorSpecificProperties": "warning",
+  "cSpell.words": [
+    "asyc",
+    "toastify"
+  ]
 }
